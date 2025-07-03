@@ -1,0 +1,49 @@
+{
+    "questions": [
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": {
+                "A": "Gold",
+                "B": "Diamond",
+                "C": "Iron"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "options": {
+                "A": "Mount Kilimanjaro",
+                "B": "Mount Everest",
+                "C": "Mount Fuji"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "Which planet is closest to the sun?",
+            "options": {
+                "A": "Mercury",
+                "B": "Venus",
+                "C": "Earth"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "What is the name of the largest ocean on Earth?",
+            "options": {
+                "A": "Atlantic Ocean",
+                "B": "Indian Ocean",
+                "C": "Pacific Ocean"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "Who is known as the father of modern physics?",
+            "options": {
+                "A": "Isaac Newton",
+                "B": "Albert Einstein",
+                "C": "Nikola Tesla"
+            },
+            "correctAnswer": "B"
+        }
+    ]
+}

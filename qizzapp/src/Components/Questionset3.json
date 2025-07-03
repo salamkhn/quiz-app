@@ -1,0 +1,50 @@
+{
+    "questions": [
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "A": "Venus",
+          "B": "Mars",
+          "C": "Saturn"
+        },
+        "correctAnswer": "B"
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3"
+        },
+        "correctAnswer": "B"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": {
+          "A": "O2",
+          "B": "H2O",
+          "C": "CO2"
+        },
+        "correctAnswer": "B"
+      },
+      {
+        "question": "In which year did the Titanic sink?",
+        "options": {
+          "A": "1912",
+          "B": "1905",
+          "C": "1920"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": {
+          "A": "Asia",
+          "B": "Africa",
+          "C": "Australia"
+        },
+        "correctAnswer": "B"
+      }
+    ]
+  }
+  

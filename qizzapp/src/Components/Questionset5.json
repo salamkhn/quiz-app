@@ -1,0 +1,50 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": {
+          "A": "Paris",
+          "B": "Berlin",
+          "C": "Madrid"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": {
+          "A": "Earth",
+          "B": "Mars",
+          "C": "Jupiter"
+        },
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Which element is represented by the symbol 'O'?",
+        "options": {
+          "A": "Oxygen",
+          "B": "Osmium",
+          "C": "Ozone"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": {
+          "A": "William Shakespeare",
+          "B": "Charles Dickens",
+          "C": "Mark Twain"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "What is the square root of 64?",
+        "options": {
+          "A": "6",
+          "B": "7",
+          "C": "8"
+        },
+        "correctAnswer": "C"
+      }
+    ]
+  }
+  

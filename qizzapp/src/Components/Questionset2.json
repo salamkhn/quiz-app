@@ -1,0 +1,50 @@
+{
+    "questions": [
+      {
+        "question": "What is the currency of Japan?",
+        "options": {
+          "A": "Yuan",
+          "B": "Yen",
+          "C": "Won"
+        },
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Which element has the atomic number 1?",
+        "options": {
+          "A": "Hydrogen",
+          "B": "Helium",
+          "C": "Lithium"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": {
+          "A": "Vincent van Gogh",
+          "B": "Pablo Picasso",
+          "C": "Leonardo da Vinci"
+        },
+        "correctAnswer": "C"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": {
+          "A": "Ottawa",
+          "B": "Toronto",
+          "C": "Vancouver"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Which animal is known for its ability to change color?",
+        "options": {
+          "A": "Chameleon",
+          "B": "Elephant",
+          "C": "Penguin"
+        },
+        "correctAnswer": "A"
+      }
+    ]
+  }
+  
